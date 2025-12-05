@@ -1,7 +1,7 @@
 # SensCritique Exporter
 
 Un script Ruby pour exporter vos films notés depuis SensCritique vers un fichier CSV.
-Vous pouvez ensuite l'importer dans LetterboxD ici: [text](https://letterboxd.com/import)
+Vous pouvez ensuite l'importer dans LetterboxD ici: [LetterboxD importer](https://letterboxd.com/import)
 
 ## Prérequis
 
